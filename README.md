@@ -1,5 +1,8 @@
-#Approach
-This system uses a digital signal processing (DSP) pipeline combined with Natural Language Processing (NLP) to analyze speech patterns.
+Speech Analysis: Pause & Repetition Detection
 
-#Features Used
-RMS Energy: Used for Pause Detection. Root Mean Square energy allows the system to identify segments where signal power drops below a calibrated silence threshold.
+Project Overview:
+
+This project is a Python-based speech analysis system designed to detect disfluencies in audio files. Specifically, it identifies silent regions (pauses) and repeated speech patterns (stutters) using a combination of digital signal processing (DSP) and Natural Language Processing (NLP).
+
+
+Key Features:
